@@ -82,3 +82,9 @@
 
 # bazel output
 bazel-*
+
+# windows
+/build
+/out
+.vs
+.vscode
